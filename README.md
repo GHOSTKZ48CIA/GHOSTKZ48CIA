@@ -11,3 +11,5 @@ GHOSTKZ48CIA/GHOSTKZ48CIA is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 operasi khusus pedang tanpa yang megang 
+
+JKT48 + bom 
